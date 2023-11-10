@@ -20,10 +20,10 @@ owners can add  restaurants they have
     clients can see it 
 
 ## Technologies and frameworks used
-   Spring boot 
-   spring data jpa 
-   spring mvc
-   spring Rest API
+   ###### Spring boot 
+   ###### spring data jpa 
+   ###### spring mvc
+   ###### spring Rest API
  ### Database used 
      mysql
 
