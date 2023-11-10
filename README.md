@@ -20,7 +20,7 @@ owners can add  restaurants they have
     clients can see it 
 
 ## Technologies and frameworks used
-   Spring boot
+   Spring boot 
    spring data jpa 
    spring mvc
    spring Rest API
